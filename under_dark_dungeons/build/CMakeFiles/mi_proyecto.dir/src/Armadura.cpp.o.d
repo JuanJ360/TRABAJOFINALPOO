@@ -1,7 +1,7 @@
-CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o: \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.cpp \
+CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.o: \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Armadura.cpp \
  /usr/include/stdc-predef.h \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Armadura.h \
  /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -109,5 +109,4 @@ CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o: \
  /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Habilidad.h \
  /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.h

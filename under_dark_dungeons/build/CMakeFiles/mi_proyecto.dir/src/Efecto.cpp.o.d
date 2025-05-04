@@ -1,7 +1,7 @@
-CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o: \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.cpp \
+CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.o: \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.cpp \
  /usr/include/stdc-predef.h \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.h \
  /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -104,10 +104,4 @@ CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o: \
  /usr/include/c++/14.2.1/cstddef \
  /usr/include/c++/14.2.1/bits/uses_allocator.h \
  /usr/include/c++/14.2.1/bits/uses_allocator_args.h \
- /usr/include/c++/14.2.1/tuple /usr/include/c++/14.2.1/vector \
- /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
- /usr/include/c++/14.2.1/bits/stl_vector.h \
- /usr/include/c++/14.2.1/bits/stl_bvector.h \
- /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Habilidad.h \
- /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.h
+ /usr/include/c++/14.2.1/tuple

@@ -8,5 +8,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 include_directories(src)
 
 add_executable(mi_proyecto
-    main.cpp src/Entidad.cpp
+    main.cpp src/Arma.cpp
+src/Habilidad.cpp
+src/Efecto.cpp
+src/Heroe.cpp
+src/Entidad.cpp
+src/Armadura.cpp
 )

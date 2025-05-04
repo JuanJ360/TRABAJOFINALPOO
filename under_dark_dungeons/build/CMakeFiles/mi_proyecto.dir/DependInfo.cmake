@@ -9,7 +9,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/main.cpp" "CMakeFiles/mi_proyecto.dir/main.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/main.cpp.o.d"
+  "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Arma.cpp" "CMakeFiles/mi_proyecto.dir/src/Arma.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/src/Arma.cpp.o.d"
+  "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Armadura.cpp" "CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.o.d"
+  "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.cpp" "CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.o.d"
   "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.cpp" "CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o.d"
+  "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Habilidad.cpp" "CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.o.d"
+  "/home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Heroe.cpp" "CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.o" "gcc" "CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.o.d"
   "" "mi_proyecto" "gcc" "CMakeFiles/mi_proyecto.dir/link.d"
   )
 

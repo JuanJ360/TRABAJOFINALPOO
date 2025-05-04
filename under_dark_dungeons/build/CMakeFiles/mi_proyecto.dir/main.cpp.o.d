@@ -143,4 +143,20 @@ CMakeFiles/mi_proyecto.dir/main.cpp.o: \
  /usr/include/c++/14.2.1/bits/locale_facets.tcc \
  /usr/include/c++/14.2.1/bits/basic_ios.tcc \
  /usr/include/c++/14.2.1/bits/ostream.tcc /usr/include/c++/14.2.1/istream \
- /usr/include/c++/14.2.1/bits/istream.tcc
+ /usr/include/c++/14.2.1/bits/istream.tcc \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.h \
+ /usr/include/c++/14.2.1/vector \
+ /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
+ /usr/include/c++/14.2.1/bits/stl_vector.h \
+ /usr/include/c++/14.2.1/bits/stl_bvector.h \
+ /usr/include/c++/14.2.1/bits/vector.tcc \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Habilidad.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Efecto.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Habilidad.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Heroe.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Entidad.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Arma.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Armadura.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Armadura.h \
+ /home/Yura/Documentos/TRABAJOFINALPOO/under_dark_dungeons/src/Arma.h

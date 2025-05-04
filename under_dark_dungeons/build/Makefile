@@ -153,6 +153,78 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/Arma.o: src/Arma.cpp.o
+.PHONY : src/Arma.o
+
+# target to build an object file
+src/Arma.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Arma.cpp.o
+.PHONY : src/Arma.cpp.o
+
+src/Arma.i: src/Arma.cpp.i
+.PHONY : src/Arma.i
+
+# target to preprocess a source file
+src/Arma.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Arma.cpp.i
+.PHONY : src/Arma.cpp.i
+
+src/Arma.s: src/Arma.cpp.s
+.PHONY : src/Arma.s
+
+# target to generate assembly for a file
+src/Arma.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Arma.cpp.s
+.PHONY : src/Arma.cpp.s
+
+src/Armadura.o: src/Armadura.cpp.o
+.PHONY : src/Armadura.o
+
+# target to build an object file
+src/Armadura.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.o
+.PHONY : src/Armadura.cpp.o
+
+src/Armadura.i: src/Armadura.cpp.i
+.PHONY : src/Armadura.i
+
+# target to preprocess a source file
+src/Armadura.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.i
+.PHONY : src/Armadura.cpp.i
+
+src/Armadura.s: src/Armadura.cpp.s
+.PHONY : src/Armadura.s
+
+# target to generate assembly for a file
+src/Armadura.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.s
+.PHONY : src/Armadura.cpp.s
+
+src/Efecto.o: src/Efecto.cpp.o
+.PHONY : src/Efecto.o
+
+# target to build an object file
+src/Efecto.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.o
+.PHONY : src/Efecto.cpp.o
+
+src/Efecto.i: src/Efecto.cpp.i
+.PHONY : src/Efecto.i
+
+# target to preprocess a source file
+src/Efecto.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.i
+.PHONY : src/Efecto.cpp.i
+
+src/Efecto.s: src/Efecto.cpp.s
+.PHONY : src/Efecto.s
+
+# target to generate assembly for a file
+src/Efecto.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.s
+.PHONY : src/Efecto.cpp.s
+
 src/Entidad.o: src/Entidad.cpp.o
 .PHONY : src/Entidad.o
 
@@ -177,6 +249,54 @@ src/Entidad.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.s
 .PHONY : src/Entidad.cpp.s
 
+src/Habilidad.o: src/Habilidad.cpp.o
+.PHONY : src/Habilidad.o
+
+# target to build an object file
+src/Habilidad.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.o
+.PHONY : src/Habilidad.cpp.o
+
+src/Habilidad.i: src/Habilidad.cpp.i
+.PHONY : src/Habilidad.i
+
+# target to preprocess a source file
+src/Habilidad.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.i
+.PHONY : src/Habilidad.cpp.i
+
+src/Habilidad.s: src/Habilidad.cpp.s
+.PHONY : src/Habilidad.s
+
+# target to generate assembly for a file
+src/Habilidad.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.s
+.PHONY : src/Habilidad.cpp.s
+
+src/Heroe.o: src/Heroe.cpp.o
+.PHONY : src/Heroe.o
+
+# target to build an object file
+src/Heroe.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.o
+.PHONY : src/Heroe.cpp.o
+
+src/Heroe.i: src/Heroe.cpp.i
+.PHONY : src/Heroe.i
+
+# target to preprocess a source file
+src/Heroe.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.i
+.PHONY : src/Heroe.cpp.i
+
+src/Heroe.s: src/Heroe.cpp.s
+.PHONY : src/Heroe.s
+
+# target to generate assembly for a file
+src/Heroe.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mi_proyecto.dir/build.make CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.s
+.PHONY : src/Heroe.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +309,24 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/Arma.o"
+	@echo "... src/Arma.i"
+	@echo "... src/Arma.s"
+	@echo "... src/Armadura.o"
+	@echo "... src/Armadura.i"
+	@echo "... src/Armadura.s"
+	@echo "... src/Efecto.o"
+	@echo "... src/Efecto.i"
+	@echo "... src/Efecto.s"
 	@echo "... src/Entidad.o"
 	@echo "... src/Entidad.i"
 	@echo "... src/Entidad.s"
+	@echo "... src/Habilidad.o"
+	@echo "... src/Habilidad.i"
+	@echo "... src/Habilidad.s"
+	@echo "... src/Heroe.o"
+	@echo "... src/Heroe.i"
+	@echo "... src/Heroe.s"
 .PHONY : help
 
 

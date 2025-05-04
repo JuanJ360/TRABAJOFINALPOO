@@ -3,7 +3,12 @@ mi_proyecto: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtbeginS.o \
   CMakeFiles/mi_proyecto.dir/main.cpp.o \
+  CMakeFiles/mi_proyecto.dir/src/Arma.cpp.o \
+  CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.o \
+  CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.o \
+  CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.o \
   CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o \
+  CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
@@ -40,7 +45,17 @@ mi_proyecto: \
 
 CMakeFiles/mi_proyecto.dir/main.cpp.o:
 
+CMakeFiles/mi_proyecto.dir/src/Arma.cpp.o:
+
+CMakeFiles/mi_proyecto.dir/src/Habilidad.cpp.o:
+
+CMakeFiles/mi_proyecto.dir/src/Efecto.cpp.o:
+
+CMakeFiles/mi_proyecto.dir/src/Heroe.cpp.o:
+
 CMakeFiles/mi_proyecto.dir/src/Entidad.cpp.o:
+
+CMakeFiles/mi_proyecto.dir/src/Armadura.cpp.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libstdc++.so:
 

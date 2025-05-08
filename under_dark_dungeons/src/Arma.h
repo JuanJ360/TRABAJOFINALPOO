@@ -15,6 +15,12 @@ class Arma {
 	public:
 
 		Arma(std::string name, std::string efecto, int atk);
+
+
+	// Getters
+	std::string getName() const;
+	std::string getEfecto() const;
+	int getAtk() const;
 };
 
 #endif

@@ -2,6 +2,7 @@
 #define TIENDA_H
 
 #include <vector>
+#include <string>
 #include "Objeto.h"
 #include "Booster_armas.h"
 #include "Booster_armaduras.h"
